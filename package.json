@@ -1,0 +1,22 @@
+{
+  "name": "zgb-editor",
+  "version": "1.0.0",
+  "description": "A visual-ish editor for the ZBG Gameboy engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schme16/ZGB-Editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schme16/ZGB-Editor/issues"
+  },
+  "homepage": "https://github.com/schme16/ZGB-Editor#readme",
+  "devDependencies": {
+    "electron-nightly": "^7.0.0-nightly.20190607"
+  }
+}
