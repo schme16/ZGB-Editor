@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/schme16/ZGB-Editor#readme",
   "devDependencies": {
-    "electron-nightly": "^7.0.0-nightly.20190607"
+    "electron-nightly": "^26.0.0-nightly.20230428"
   }
 }
